@@ -13,7 +13,7 @@ Github README
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Kotlin, Java**
+- 💬 Ask me about **Kotlin, Java, or Robot Code**
 
 - 📫 How to reach me **kanishkpandey0407@gmail.com**
 
