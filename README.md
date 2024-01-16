@@ -9,7 +9,7 @@ Github README
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanishk-pandey" alt="kanishk-pandey" /></a> </p>
 
-- 🔭 I’m currently working on **FRC 2023**
+- 🔭 I’m currently working on **FRC 2024**
 
 - 🌱 I’m currently learning **React Native**
 
